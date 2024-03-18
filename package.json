@@ -1,0 +1,11 @@
+{
+  "name": "tum-web-lab3",
+  "version": "1.0.0",
+  "description": "CLI for making TCP requests",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "MaxCojocari",
+  "license": "ISC"
+}
