@@ -7,5 +7,8 @@
     "test": "npm test"
   },
   "author": "MaxCojocari",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "node-html-parser": "^6.1.12"
+  }
 }

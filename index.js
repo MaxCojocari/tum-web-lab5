@@ -1,4 +1,5 @@
 const net = require("net");
+const { parse } = require("node-html-parser");
 
 function makeHttpRequest(host, port = 80, path = "/") {
   return new Promise((resolve, reject) => {
@@ -24,11 +25,23 @@ function makeHttpRequest(host, port = 80, path = "/") {
   });
 }
 
+function parseHtml(response) {
+  const separator = "\r\n\r\n";
+  const separatorIndex = response.indexOf(separator);
+  if (separatorIndex === -1) {
+    throw new Error("The separator was not found in the response.");
+  }
+  const bodyPart = response.substring(separatorIndex + separator.length);
+  const root = parse(bodyPart);
+  root.querySelectorAll("script, style").forEach((node) => node.remove());
+  return root.structuredText.replace(/(<([^>]+)>)/gi, "");
+}
+
 async function main() {
   const url = "localhost";
   const path = "/index.html";
-  const response = await makeHttpRequest(url, 5500, path);
-  console.log(response);
+  const response = await makeHttpRequest(url, 5502, path);
+  console.log(parseHtml(response));
 }
 
 main().catch((error) => {
