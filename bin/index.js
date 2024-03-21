@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 const { parse } = require("node-html-parser");
 const { makeHttpRequest, makeHttpsRequest } = require("./request-handlers");
 
@@ -51,8 +52,9 @@ async function makeSearchCall(query) {
 }
 
 async function main() {
-  const query = "Maxim Cojocari, the renowned artist!";
-  await makeSearchCall(query);
+  //   const query = "Maxim Cojocari, the renowned artist!";
+  //   await makeSearchCall(query);
+  console.log("hello world");
 }
 
 main().catch((error) => {
