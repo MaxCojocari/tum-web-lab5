@@ -1,29 +1,10 @@
-const net = require("net");
 const { parse } = require("node-html-parser");
+const { makeHttpRequest, makeHttpsRequest } = require("./request-handlers");
 
-function makeHttpRequest(host, port = 80, path = "/") {
-  return new Promise((resolve, reject) => {
-    const client = net.createConnection({ port, host }, () => {
-      client.write(
-        `GET ${path} HTTP/1.1\r\nHost: ${host}\r\nConnection: close\r\n\r\n`
-      );
-    });
+require("dotenv").config();
 
-    let response = "";
-
-    client.on("data", (data) => {
-      response += data.toString();
-    });
-
-    client.on("end", () => {
-      resolve(response);
-    });
-
-    client.on("error", (err) => {
-      reject(err);
-    });
-  });
-}
+process.env.NODE_TLS_REJECT_UNAUTHORIZED = "0";
+process.removeAllListeners("warning");
 
 function parseHtml(response) {
   const separator = "\r\n\r\n";
@@ -37,11 +18,18 @@ function parseHtml(response) {
   return root.structuredText.replace(/(<([^>]+)>)/gi, "");
 }
 
+async function makeSearchCall() {
+  const url = `www.googleapis.com`;
+  const path = `/customsearch/v1?key=${process.env.API_KEY}&cx=${process.env.SEARCH_ENGINE_ID}&q=maxim+cojocari`;
+  const res = await makeHttpsRequest(url, undefined, path);
+  return res;
+}
+
 async function main() {
   const url = "localhost";
   const path = "/index.html";
-  const response = await makeHttpRequest(url, 5502, path);
-  console.log(parseHtml(response));
+  const res = await makeSearchCall();
+  console.log(res);
 }
 
 main().catch((error) => {
