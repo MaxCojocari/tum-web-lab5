@@ -31,7 +31,7 @@ function makeHttpsRequest(host, port = 443, path = "/") {
 
     const client = tls.connect(options, () => {
       client.write(
-        `GET ${path} HTTP/1.1\r\nHost: ${host}\r\nConnection: close\r\n\r\n`
+        `GET ${path} HTTP/1.0\r\nHost: ${host}\r\nConnection: close\r\n\r\n`
       );
     });
 
