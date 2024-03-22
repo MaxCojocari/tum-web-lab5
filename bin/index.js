@@ -10,9 +10,9 @@ require("dotenv").config();
 process.env.NODE_TLS_REJECT_UNAUTHORIZED = "0";
 process.removeAllListeners("warning");
 
-yargs(hideBin(process.argv))
+const argv = yargs(hideBin(process.argv))
   .scriptName("go2web")
-  .usage("$0 -u <URL>\n$0 -s <search-term>")
+  .usage("Usage: $0 -u <URL> or $0 -s <search-term>")
   .option("u", {
     alias: "url",
     describe:
@@ -27,9 +27,9 @@ yargs(hideBin(process.argv))
     type: "string",
     requiresArg: true,
   })
-  .help("h")
-  .alias("h", "help")
-  .demandCommand(1, "You need at least one command before moving on").argv;
+  .help()
+  .alias("help", "h")
+  .parse();
 
 function normalizeSearchInput(input) {
   input = input.toLowerCase();
@@ -76,8 +76,18 @@ async function makeSearchCall(query) {
 }
 
 async function main() {
-  //   const query = "Maxim Cojocari, the renowned artist!";
-  //   await makeSearchCall(query);
+  console.log(argv);
+
+  if (Object.keys(argv).length <= 2) {
+    yargs.showHelp();
+  } else if (argv.u) {
+    console.log(argv.u);
+  } else if (argv.s) {
+    console.log(argv.s);
+  } else if (!argv.u && !argv.s) {
+    console.log("You must provide a valid command!\n");
+    yargs.showHelp();
+  }
 }
 
 main().catch((error) => {
