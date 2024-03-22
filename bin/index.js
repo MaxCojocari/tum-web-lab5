@@ -76,7 +76,7 @@ async function makeSearchCall(query) {
 }
 
 async function main() {
-  //   console.log(argv);
+  console.log(argv);
 
   if (Object.keys(argv).length <= 2) {
     yargs.showHelp();
@@ -88,7 +88,8 @@ async function main() {
     const res = await makeHttpsRequest(domain, undefined, path);
     console.log(parseHtml(res));
   } else if (argv.s) {
-    console.log(argv.s);
+    const searchQuery = argv.s;
+    makeSearchCall(searchQuery);
   } else if (!argv.u && !argv.s) {
     console.log("You must provide a valid command!\n");
     yargs.showHelp();
