@@ -76,12 +76,17 @@ async function makeSearchCall(query) {
 }
 
 async function main() {
-  console.log(argv);
+  //   console.log(argv);
 
   if (Object.keys(argv).length <= 2) {
     yargs.showHelp();
   } else if (argv.u) {
-    console.log(argv.u);
+    const urlString = argv.url;
+    const url = new URL(urlString);
+    const domain = url.hostname;
+    const path = url.pathname;
+    const res = await makeHttpsRequest(domain, undefined, path);
+    console.log(parseHtml(res));
   } else if (argv.s) {
     console.log(argv.s);
   } else if (!argv.u && !argv.s) {
