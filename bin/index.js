@@ -1,11 +1,35 @@
 #!/usr/bin/env node
+
+const yargs = require("yargs");
 const { parse } = require("node-html-parser");
 const { makeHttpRequest, makeHttpsRequest } = require("./request-handlers");
+const { hideBin } = require("yargs/helpers");
 
 require("dotenv").config();
 
 process.env.NODE_TLS_REJECT_UNAUTHORIZED = "0";
 process.removeAllListeners("warning");
+
+yargs(hideBin(process.argv))
+  .scriptName("go2web")
+  .usage("$0 -u <URL>\n$0 -s <search-term>")
+  .option("u", {
+    alias: "url",
+    describe:
+      "Make an HTTP request to the specified URL and print the response",
+    type: "string",
+    requiresArg: true,
+  })
+  .option("s", {
+    alias: "search",
+    describe:
+      "Make an HTTP request to search the term and print top 10 results",
+    type: "string",
+    requiresArg: true,
+  })
+  .help("h")
+  .alias("h", "help")
+  .demandCommand(1, "You need at least one command before moving on").argv;
 
 function normalizeSearchInput(input) {
   input = input.toLowerCase();
@@ -54,7 +78,6 @@ async function makeSearchCall(query) {
 async function main() {
   //   const query = "Maxim Cojocari, the renowned artist!";
   //   await makeSearchCall(query);
-  console.log("hello world");
 }
 
 main().catch((error) => {
