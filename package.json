@@ -13,6 +13,7 @@
     "license": "ISC",
     "dependencies": {
         "dotenv": "^16.4.5",
-        "node-html-parser": "^6.1.12"
+        "node-html-parser": "^6.1.12",
+        "yargs": "^17.7.2"
     }
 }
