@@ -2,6 +2,7 @@ const fs = require("fs");
 const path = require("path");
 
 const CACHE_FILE_PATH = path.join(__dirname, "../cached-data.json");
+const DEFAULT_TTL = 5 * 60 * 1000;
 
 function readCache() {
   try {
@@ -23,12 +24,25 @@ function writeCache(cache) {
 
 function getCache(key) {
   const cache = readCache();
-  return cache[key];
+  const item = cache[key];
+  if (item && item.expiry > Date.now()) {
+    return item.data;
+  }
+  return null;
 }
 
-function setCache(key, data) {
+function setCache(key, data, ttl) {
   const cache = readCache();
-  cache[key] = data;
+
+  let expiry;
+
+  if (ttl) {
+    expiry = Date.now() + ttl;
+  } else {
+    expiry = Date.now() + DEFAULT_TTL;
+  }
+
+  cache[key] = { data, expiry };
   writeCache(cache);
 }
 
