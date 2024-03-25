@@ -1,3 +1,4 @@
+const { setCache, getCache } = require("./cache-handler");
 const { makeHttpsRequest } = require("./request-handler");
 const { splitResBody } = require("./response-handler");
 
@@ -19,9 +20,20 @@ function normalizeSearchInput(input) {
 async function makeSearchCall(query) {
   const normalizedQuery = normalizeSearchInput(query);
   const path = `/customsearch/v1?key=${process.env.API_KEY}&cx=${process.env.SEARCH_ENGINE_ID}&q=${normalizedQuery}`;
-  const res = await makeHttpsRequest(process.env.API_URL, undefined, path);
-  const bodyRes = JSON.parse(splitResBody(res));
+
+  const cached = getCache(normalizedQuery);
+
+  let bodyRes;
+  if (cached) {
+    bodyRes = cached;
+  } else {
+    const res = await makeHttpsRequest(process.env.API_URL, undefined, path);
+    bodyRes = JSON.parse(splitResBody(res));
+    setCache(normalizedQuery, bodyRes);
+  }
+
   const items = bodyRes["items"];
+
   for (let item of items) {
     console.log(item.title);
     console.log(item.link);

@@ -33,11 +33,9 @@ const argv = yargs(hideBin(process.argv))
   .alias("help", "h")
   .parse();
 
-async function handleUrlCommand(urlString) {
-  const cached = getCache(urlString);
-
+async function handleUrlCommand() {
+  const cached = getCache(argv.u);
   let res;
-
   if (cached) {
     res = cached;
   } else {
@@ -52,17 +50,21 @@ async function handleUrlCommand(urlString) {
   console.log(res);
 }
 
+async function handleSearchCommand() {
+  let searchQuery = argv.s;
+  for (let queryParam of argv._) {
+    searchQuery += " " + queryParam;
+  }
+  await makeSearchCall(searchQuery);
+}
+
 async function main() {
   if (Object.keys(argv).length <= 2) {
     yargs.showHelp();
   } else if (argv.u) {
-    await handleUrlCommand(argv.u);
+    await handleUrlCommand();
   } else if (argv.s) {
-    let searchQuery = argv.s;
-    for (let queryParam of argv._) {
-      searchQuery += " " + queryParam;
-    }
-    makeSearchCall(searchQuery);
+    await handleSearchCommand();
   } else if (!argv.u && !argv.s) {
     console.log("You must provide a valid command!\n");
     yargs.showHelp();

@@ -10,5 +10,1110 @@
   "https://stiri.md/": {
     "data": "Ultimele știri din moldova, noutăți md de azi - Stiri.md\nСhișinău-°C-\n------Video\nAdaugă o știre\nCategorii\nTeme\nDespre proiect\nReguli\nRedacție\nAjutor\nPolitica de confidențialitate\nPublicitate pe bannere\nSupport\n+373 (22) 888 002info@stiri.md\nPromo\n+373 (22) 888 966news.sales@stiri.md\nPlasează Publicitate\nСhișinău-°C-\nAutentificare / Înregistrare\nAdaugă o știre\nTemeAfișați mai multe...\nCategoriiAfișați mai multe...\nDespre proiectReguliRedacțieAjutorPolitica de confidențialitatePublicitate pe bannere\nSupport\n+373 (22) 888 002info@stiri.md\nPromo\n+373 (22) 888 966news.sales@stiri.md\nPlasează Publicitate\n52:15\nFostul director SIS, despre atacul de la Moscova: Vina este a lui Putin\nAtacul terorist de la Moscova, de vineri seară, în care și-au pierdut viața 137 de persoane, este o lovitură foarte puternică împotriva Federației Ruse, iar serviciile speciale din Rusia au demonstrat că sunt incapabile să controleze situația în toată țara și să prevină astfel de atacuri teroriste. De această opinie este ex-directorul interimar SIS, Valentin Dediu.\no oră în urmă\n1431\nPublicitatea ta poate fi aici\nCum se dezvoltă piața nucilor în Republica Moldova\no oră în urmă\n526\nAeroportul privat din România: Cine e moldoveanul, acționar al planului\no oră în urmă\n1462\n3:05\nNumărul cazurilor de suicid în rândul minorilor din Moldova, în creștere\no oră în urmă\n347\n7:22\nScandalul grupelor cu program prelungit continuă. Ce afirmă Pavaloi\n2 ore în urmă\n584\nBătaie între elevii la un liceu din Soroca. Părinții au fost amendați\n2 ore în urmă\n626\nMAI a înregistrat scăderea numărului cazurilor de violență în familie\n2 ore în urmă\n226\nMoldova a lansat un curs privind evaluarea crizelor\n2 ore în urmă\n199\nAtacul armat din Moscova: Bilanțul deceselor a ajuns la 139\no oră în urmă\n406\nPublicitatea ta poate fi aici\nUltima oră:\nPublicitatea ta poate fi aici\nPublicitatea ta poate fi aici\nExpediați-ne o știre\nAți aflat ceva interesant? Împărtășiți știrea cu toată lumea!\nAlegeți fișiere\nAdăugați\nPrin apăsarea butonului «Adăugați» D-vstră acceptați condițiile publicării",
     "expiry": 1711403036113
+  },
+  "most+popular+js+frameworks": {
+    "data": {
+      "kind": "customsearch#search",
+      "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+      },
+      "queries": {
+        "request": [
+          {
+            "title": "Google Custom Search - most popular js frameworks",
+            "totalResults": "330000000",
+            "searchTerms": "most popular js frameworks",
+            "count": 10,
+            "startIndex": 1,
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "451ea052a23ab49af"
+          }
+        ],
+        "nextPage": [
+          {
+            "title": "Google Custom Search - most popular js frameworks",
+            "totalResults": "330000000",
+            "searchTerms": "most popular js frameworks",
+            "count": 10,
+            "startIndex": 11,
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "451ea052a23ab49af"
+          }
+        ]
+      },
+      "context": {
+        "title": "test"
+      },
+      "searchInformation": {
+        "searchTime": 0.557109,
+        "formattedSearchTime": "0.56",
+        "totalResults": "330000000",
+        "formattedTotalResults": "330,000,000"
+      },
+      "items": [
+        {
+          "kind": "customsearch#result",
+          "title": "There are too many Javascript frameworks? How do I know which to ...",
+          "htmlTitle": "There are too many Javascript <b>frameworks</b>? How do I know which to ...",
+          "link": "https://www.reddit.com/r/webdev/comments/wukb3d/there_are_too_many_javascript_frameworks_how_do_i/",
+          "displayLink": "www.reddit.com",
+          "snippet": "Aug 22, 2022 ... You probably can't go wrong with React, Vue, Angular, Svelte, Preact, Solid, and some others. But React is the biggest and most popular. Within ...",
+          "htmlSnippet": "Aug 22, 2022 <b>...</b> You probably can&#39;t go wrong with React, Vue, Angular, Svelte, Preact, Solid, and some others. But React is the <b>biggest</b> and <b>most popular</b>. Within&nbsp;...",
+          "formattedUrl": "https://www.reddit.com/.../there_are_too_many_javascript_frameworks_ho...",
+          "htmlFormattedUrl": "https://www.reddit.com/.../there_are_too_many_javascript_<b>frameworks</b>_ho...",
+          "pagemap": {
+            "metatags": [
+              {
+                "og:image": "https://share.redd.it/preview/post/wukb3d",
+                "theme-color": "#000000",
+                "og:image:width": "1200",
+                "og:type": "website",
+                "og:image:alt": "An image containing a preview of the post",
+                "twitter:card": "summary_large_image",
+                "twitter:title": "r/webdev on Reddit: There are too many Javascript frameworks? How do I know which to learn?",
+                "og:site_name": "Reddit",
+                "og:title": "r/webdev on Reddit: There are too many Javascript frameworks? How do I know which to learn?",
+                "og:image:height": "630",
+                "msapplication-navbutton-color": "#000000",
+                "og:description": "Posted by u/yankees88888g - 270 votes and 284 comments",
+                "twitter:image": "https://share.redd.it/preview/post/wukb3d",
+                "apple-mobile-web-app-status-bar-style": "black",
+                "twitter:site": "@reddit",
+                "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+                "apple-mobile-web-app-capable": "yes",
+                "og:ttl": "600",
+                "og:url": "https://www.reddit.com/r/webdev/comments/wukb3d/there_are_too_many_javascript_frameworks_how_do_i/"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "https://share.redd.it/preview/post/wukb3d"
+              }
+            ]
+          }
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "The Most Popular JavaScript Frameworks of 2023",
+          "htmlTitle": "The <b>Most Popular</b> JavaScript <b>Frameworks</b> of 2023",
+          "link": "https://www.makeuseof.com/most-popular-javascript-frameworks/",
+          "displayLink": "www.makeuseof.com",
+          "snippet": "Jun 22, 2023 ... 1. Node.js ... Node.js is the most popular JavaScript framework. It's used by 42% of all respondents and is used fairly equally by professional ...",
+          "htmlSnippet": "Jun 22, 2023 <b>...</b> 1. Node.<b>js</b> ... Node.<b>js</b> is the <b>most popular</b> JavaScript <b>framework</b>. It&#39;s used by 42% of all respondents and is used fairly equally by professional&nbsp;...",
+          "cacheId": "13SIXEojKcoJ",
+          "formattedUrl": "https://www.makeuseof.com/most-popular-javascript-frameworks/",
+          "htmlFormattedUrl": "https://www.makeuseof.com/<b>most</b>-<b>popular</b>-javascript-<b>frameworks</b>/",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn3qST65HTQM_-BWHdW9E4UFmPZWwROwtpYH60vAYZsUPdwa25EQyCC07J&s",
+                "width": "275",
+                "height": "183"
+              }
+            ],
+            "metatags": [
+              {
+                "og:image": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/pexels-antonio-batinić-4164418.jpg",
+                "og:type": "article",
+                "og:image:width": "1680",
+                "article:published_time": "2022-01-29T22:15:12Z",
+                "article:section": "Programming",
+                "twitter:card": "summary_large_image",
+                "twitter:title": "The Most Popular JavaScript Frameworks of 2023",
+                "og:site_name": "MUO",
+                "og:title": "The Most Popular JavaScript Frameworks of 2023",
+                "og:image:height": "840",
+                "og:description": "Planning to develop projects using JavaScript? But which is the most popular JavaScript framework?",
+                "twitter:creator": "@remigathoni",
+                "article:author": "Mary Gathoni",
+                "article:publisher": "https://www.facebook.com/muo.official",
+                "twitter:image": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/pexels-antonio-batinić-4164418.jpg",
+                "fb:app_id": "172826243054377",
+                "twitter:site": "@MUO_official",
+                "article:modified_time": "2023-06-22T19:00:17Z",
+                "viewport": "width=device-width, initial-scale=1",
+                "twitter:description": "Planning to develop projects using JavaScript? But which is the most popular JavaScript framework?",
+                "og:locale": "en_US",
+                "og:url": "https://www.makeuseof.com/most-popular-javascript-frameworks/"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/03/govee-tv-backlight-3-lite-rainbow-test-govee.jpg"
+              }
+            ],
+            "sitenavigationelement": [
+              {
+                "name": "PC & Mobile Windows Mac Linux Android iOS",
+                "url": "PC & Mobile"
+              }
+            ]
+          }
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "Top 7 JavaScript Frameworks in 2023: How to Choose?",
+          "htmlTitle": "<b>Top</b> 7 JavaScript <b>Frameworks</b> in 2023: How to Choose?",
+          "link": "https://jaydevs.com/most-popular-javascript-frameworks/",
+          "displayLink": "jaydevs.com",
+          "snippet": "Nov 16, 2023 ... Angular; React.js; Vue.js; Node.js; jQuery; Express.js; Next.js. 1. Angular.",
+          "htmlSnippet": "Nov 16, 2023 <b>...</b> Angular; React.<b>js</b>; Vue.<b>js</b>; Node.<b>js</b>; jQuery; Express.<b>js</b>; Next.<b>js</b>. 1. Angular.",
+          "cacheId": "95Swm3mAaZoJ",
+          "formattedUrl": "https://jaydevs.com/most-popular-javascript-frameworks/",
+          "htmlFormattedUrl": "https://jaydevs.com/<b>most</b>-<b>popular</b>-javascript-<b>frameworks</b>/",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyKNR4MWFMnAUFC4l8GvjYjrw0MmWlJkJRBPDE9rDadZ2UUGs3uLrhH-Q&s",
+                "width": "313",
+                "height": "161"
+              }
+            ],
+            "metatags": [
+              {
+                "og:image": "https://d2i2xyh28mr8fx.cloudfront.net/wp-content/uploads/2023/11/09150953/Cover-top-7-js-frameworks.png",
+                "theme-color": "#4985EA",
+                "og:type": "article",
+                "article:published_time": "2023-11-16T06:32:28+00:00",
+                "og:image:width": "590",
+                "twitter:card": "summary_large_image",
+                "og:site_name": "JayDevs",
+                "og:title": "Top 7 JavaScript Frameworks in 2023: How to Choose?",
+                "og:image:height": "304",
+                "twitter:label1": "Written by",
+                "twitter:label2": "Est. reading time",
+                "og:description": "Top 7 JavaScript frameworks and libraries in 2023, what are they, and how to choose the most suitable JS technology for your project.",
+                "twitter:data1": "darya.romanenko@jaydevs.com",
+                "twitter:data2": "15 minutes",
+                "article:modified_time": "2023-11-29T11:31:59+00:00",
+                "viewport": "width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=5.0",
+                "og:locale": "en_US",
+                "og:url": "https://jaydevs.com/most-popular-javascript-frameworks/"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "https://d2i2xyh28mr8fx.cloudfront.net/wp-content/uploads/2023/11/09150953/Cover-top-7-js-frameworks.png"
+              }
+            ]
+          }
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "9 Best JavaScript Frameworks to Use in 2024",
+          "htmlTitle": "9 Best JavaScript <b>Frameworks</b> to Use in 2024",
+          "link": "https://ninetailed.io/blog/best-javascript-frameworks/",
+          "displayLink": "ninetailed.io",
+          "snippet": "Vue is a JavaScript framework for building user interfaces and single-page applications. This is another popular JavaScript framework after React. It is also ...",
+          "htmlSnippet": "Vue is a JavaScript <b>framework</b> for building user interfaces and single-page applications. This is another <b>popular</b> JavaScript <b>framework</b> after React. It is also&nbsp;...",
+          "formattedUrl": "https://ninetailed.io/blog/best-javascript-frameworks/",
+          "htmlFormattedUrl": "https://ninetailed.io/blog/best-javascript-<b>frameworks</b>/",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT05zyryvFxRYJZcTYYNDAz3oleoBnT0ZcQdBOJ0Nj649YsxczYJL1KZQA&s",
+                "width": "329",
+                "height": "153"
+              }
+            ],
+            "metatags": [
+              {
+                "og:image": "https://images.ctfassets.net/a7v91okrwwe3/3ZmRGWpWiV71XVz5eoMgUc/4be7403c38912d9e5a0a466ddaec26a3/9_Best_JavaScript_Frameworks_to_Use_in_2022.jpg",
+                "next-head-count": "12",
+                "og:type": "article",
+                "viewport": "initial-scale=1.0, width=device-width",
+                "og:title": "9 Best JavaScript Frameworks to Use in 2024",
+                "og:url": "https://ninetailed.io/blog/best-javascript-frameworks/",
+                "og:description": "This article will introduce to you the best JavaScript frameworks that provide developers with the building blocks to create application software."
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "https://images.ctfassets.net/a7v91okrwwe3/3ZmRGWpWiV71XVz5eoMgUc/4be7403c38912d9e5a0a466ddaec26a3/9_Best_JavaScript_Frameworks_to_Use_in_2022.jpg"
+              }
+            ]
+          }
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "10 Best JavaScript Frameworks in 2024 [Updated]",
+          "htmlTitle": "<b>10 Best</b> JavaScript <b>Frameworks</b> in 2024 [Updated]",
+          "link": "https://hackr.io/blog/best-javascript-frameworks",
+          "displayLink": "hackr.io",
+          "snippet": "Feb 13, 2024 ... Vue.js is renowned for its simplicity and flexibility, and it's often used for building user interfaces and single-page applications. Designed ...",
+          "htmlSnippet": "Feb 13, 2024 <b>...</b> Vue.<b>js</b> is renowned for its simplicity and flexibility, and it&#39;s often <b>used</b> for building user interfaces and single-page applications. Designed&nbsp;...",
+          "cacheId": "gl80KPar4t8J",
+          "formattedUrl": "https://hackr.io/blog/best-javascript-frameworks",
+          "htmlFormattedUrl": "https://hackr.io/blog/best-javascript-<b>frameworks</b>",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEnROQKXqecmNlv0Fy_qdrJKu7nK37WDpdPZRCEWqXUxKk8Lu0RdeCigRS&s",
+                "width": "310",
+                "height": "163"
+              }
+            ],
+            "metatags": [
+              {
+                "og:image": "https://hackr.io/blog/best-javascript-frameworks/og-image",
+                "twitter:card": "summary_large_image",
+                "og:type": "website",
+                "twitter:title": "10 Best JavaScript Frameworks in 2024 [Updated]",
+                "og:site_name": "Hackr.io",
+                "og:fb:app_id": "657056352126686",
+                "og:title": "10 Best JavaScript Frameworks in 2024 [Updated]",
+                "twitter:creator": "@hackrio_",
+                "og:description": "JavaScript is one of the most popular programming languages and there’s no shortage of frameworks. We list here the 10 best JavaScript frameworks in 2024.",
+                "twitter:image": "https://hackr.io/blog/best-javascript-frameworks/twiter-image",
+                "twitter:image:alt": "10 Best JavaScript Frameworks in 2024 [Updated]",
+                "twitter:site": "@hackrio_",
+                "viewport": "width=device-width, initial-scale=1.0",
+                "twitter:description": "JavaScript is one of the most popular programming languages and there’s no shortage of frameworks. We list here the 10 best JavaScript frameworks in 2024.",
+                "csrf-token": "VBshVI2kSwSjKFR3DRdkf5jKSJg5UqStcZhUoYCY",
+                "og:url": "https://hackr.io/blog/best-javascript-frameworks",
+                "am-api-token": "DbyJ3SXLe"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "https://hackr.io/blog/best-javascript-frameworks/og-image"
+              }
+            ]
+          }
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "Most Popular JavaScript Frameworks: A Full Guide for 2024 | ELITEX",
+          "htmlTitle": "<b>Most Popular</b> JavaScript <b>Frameworks</b>: A Full Guide for 2024 | ELITEX",
+          "link": "https://elitex.systems/blog/most-popular-javascript-frameworks/",
+          "displayLink": "elitex.systems",
+          "snippet": "React, Angular, Vue.js, and Svelte, as of 2024, remain the most popular choices for front-end development, while Node.js is the top back-end ...",
+          "htmlSnippet": "React, Angular, Vue.<b>js</b>, and Svelte, as of 2024, remain the <b>most popular</b> choices for front-end development, while Node.<b>js</b> is the <b>top</b> back-end&nbsp;...",
+          "cacheId": "qpCRkXVCN6UJ",
+          "formattedUrl": "https://elitex.systems/blog/most-popular-javascript-frameworks/",
+          "htmlFormattedUrl": "https://elitex.systems/blog/<b>most</b>-<b>popular</b>-javascript-<b>frameworks</b>/",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXt-Bf_bWVrrxS2paeNNk2gwNUAg1GBwwhoZM77xFjROzipM9MmeJMotE&s",
+                "width": "275",
+                "height": "183"
+              }
+            ],
+            "person": [
+              {
+                "name": "ELITEX Team",
+                "url": "ELITEX Team"
+              }
+            ],
+            "metatags": [
+              {
+                "og:image": "https://elitex.systems/blog/wp-content/uploads/2020/07/javascript-code.jpg",
+                "og:type": "article",
+                "article:published_time": "2020-07-14T07:38:26+00:00",
+                "og:image:width": "1920",
+                "twitter:card": "summary_large_image",
+                "og:site_name": "ELITEX IT Company Blog",
+                "author": "ELITEX Team",
+                "og:title": "Most Popular JavaScript Frameworks: A Full Guide for 2024",
+                "og:image:height": "1281",
+                "og:image:type": "image/jpeg",
+                "msapplication-tileimage": "https://elitex.systems/blog/wp-content/uploads/2023/07/favicon-32x32-1.png",
+                "og:description": "Discover our top JavaScript frameworks that dominate the development landscape. Explore the features, benefits, and what makes them so popular with ELITEX.",
+                "article:publisher": "https://www.facebook.com/elitexsystems/",
+                "article:modified_time": "2024-02-26T19:09:27+00:00",
+                "viewport": "width=device-width, initial-scale=1",
+                "og:locale": "en_US",
+                "og:url": "https://elitex.systems/blog/most-popular-javascript-frameworks/"
+              }
+            ],
+            "creativework": [
+              {
+                "image": "https://elitex.systems/blog/wp-content/uploads/2020/07/javascript-code-1024x683.jpg",
+                "text": "Share via: Blog / Most Popular JavaScript Frameworks: A Full Guide for 2024 Table Of Contents What is a JavaScript framework?What is JavaScript framework used for? List of the 5 Most Popular...",
+                "headline": "Most Popular JavaScript Frameworks: A Full Guide for 2024"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "https://elitex.systems/blog/wp-content/uploads/2020/07/javascript-code.jpg"
+              }
+            ]
+          }
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "10 Best JavaScript Frameworks to choose in 2024 | Radixweb",
+          "htmlTitle": "<b>10 Best</b> JavaScript <b>Frameworks</b> to choose in 2024 | Radixweb",
+          "link": "https://radixweb.com/blog/best-javascript-frameworks-for-web-development",
+          "displayLink": "radixweb.com",
+          "snippet": "6 days ago ... The Aurelia framework is one of the best JS frameworks, comprising a compact, lightweight core and a set of well-defined modules that provide a ...",
+          "htmlSnippet": "6 days ago <b>...</b> The Aurelia framework is one of the best <b>JS frameworks</b>, comprising a compact, lightweight core and a set of well-defined modules that provide a&nbsp;...",
+          "cacheId": "2KsyIb55JOYJ",
+          "formattedUrl": "https://radixweb.com/blog/best-javascript-frameworks-for-web-development",
+          "htmlFormattedUrl": "https://radixweb.com/blog/best-javascript-<b>frameworks</b>-for-web-development",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4lNT8meglqv-FsqcSFkdvCoIDcTyVJWXB7chr8-JOM5fTVY0pEsXSMkei&s",
+                "width": "310",
+                "height": "163"
+              }
+            ],
+            "metatags": [
+              {
+                "charset": "UTF-8",
+                "og:image": "https://s3.ap-south-1.amazonaws.com/stage.radixweb.com/medium_Best_Javascript_Frameworks_For_Web_Development_0c28feef62.jpg",
+                "theme-color": "#025fa2",
+                "og:type": "article",
+                "twitter:card": "summary_large_image",
+                "og:image:width": "788",
+                "twitter:title": "10 Best JavaScript Frameworks to Use in 2024 | Radixweb",
+                "article:published_time": "2021-10-28T12:00:00+0000",
+                "og:site_name": "Radixweb",
+                "og:title": "10 Best JavaScript Frameworks to Use in 2024 | Radixweb",
+                "og:image:height": "414",
+                "og:description": "Considering a new web development project, and wondering what framework you should use? We've got you covered! Here is a list of the top 10 JavaScript frameworks for 2024",
+                "twitter:image": "https://s3.ap-south-1.amazonaws.com/stage.radixweb.com/Best_Javascript_Frameworks_For_Web_Development_0c28feef62.jpg",
+                "twitter:site": "@radixweb",
+                "article:modified_time": "2024-03-21T15:29:03+0000",
+                "viewport": "width=device-width, initial-scale=1.0",
+                "twitter:description": "Considering a new web development project, and wondering what framework you should use? We've got you covered! Here is a list of the top 10 JavaScript frameworks for 2024",
+                "og:locale": "en_US",
+                "og:url": "/blog/best-javascript-frameworks-for-web-development"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "https://s3.ap-south-1.amazonaws.com/stage.radixweb.com/medium_Best_Javascript_Frameworks_For_Web_Development_0c28feef62.jpg"
+              }
+            ]
+          }
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "Top 10 Most Popular JavaScript Frameworks For Web Development",
+          "htmlTitle": "<b>Top</b> 10 <b>Most Popular</b> JavaScript <b>Frameworks</b> For Web Development",
+          "link": "https://www.geeksforgeeks.org/most-popular-javascript-frameworks-for-web-development/",
+          "displayLink": "www.geeksforgeeks.org",
+          "snippet": "Mar 13, 2024 ... The current leader in the JavaScript UI framework field is React, known as the most popular JavaScript framework. At first, Facebook developers ...",
+          "htmlSnippet": "Mar 13, 2024 <b>...</b> The current leader in the JavaScript UI <b>framework</b> field is React, known as the <b>most popular</b> JavaScript <b>framework</b>. At first, Facebook developers&nbsp;...",
+          "cacheId": "dgapDtgVg6EJ",
+          "formattedUrl": "https://www.geeksforgeeks.org/most-popular-javascript-frameworks-for-we...",
+          "htmlFormattedUrl": "https://www.geeksforgeeks.org/<b>most</b>-<b>popular</b>-javascript-<b>frameworks</b>-for-we...",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdAp2TvWRfYgv6cuolDnQaeuQ_PghSo2t09Sjg84lHAouYj6v5Ewivt3E&s",
+                "width": "328",
+                "height": "154"
+              }
+            ],
+            "metatags": [
+              {
+                "image": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png",
+                "og:image": "https://media.geeksforgeeks.org/wp-content/uploads/20230808182142/JavaScript-Frameworks-For-Web-Developement.png",
+                "theme-color": "#308D46",
+                "og:image:width": "200",
+                "og:type": "article",
+                "article:section": "GBlog",
+                "article:published_time": "2020-08-01T23:47:12+00:00",
+                "og:site_name": "GeeksforGeeks",
+                "og:title": "Top 10 Most Popular JavaScript Frameworks For Web Development",
+                "og:image:height": "200",
+                "og:image:type": "image/png",
+                "og:updated_time": "2024-03-13T17:24:39+00:00",
+                "msapplication-tileimage": "https://www.geeksforgeeks.org/wp-content/uploads/gfg_200X200.png",
+                "og:description": "Here is the list of most popular JavaScript Frameworks for Web Development:- 1. ReactJs 2. AngularJs 3. VueJs 4. jQuery 5. BackboneJs 6. NodeJs 7. EmberJs 8. MeteorJs",
+                "og:image:secure_url": "https://media.geeksforgeeks.org/wp-content/uploads/20230808182142/JavaScript-Frameworks-For-Web-Developement.png",
+                "facebook-domain-verification": "xo7t4ve2wn3ywfkjdvwbrk01pvdond",
+                "article:tag": "Frameworks",
+                "article:modified_time": "2024-03-13T17:24:39+00:00",
+                "viewport": "width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0",
+                "og:locale": "en_US",
+                "og:url": "https://www.geeksforgeeks.org/most-popular-javascript-frameworks-for-web-development/"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "https://media.geeksforgeeks.org/wp-content/uploads/20230808182142/JavaScript-Frameworks-For-Web-Developement.png"
+              }
+            ]
+          }
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "Top 10 Most Popular JavaScript Frameworks to Choose in 2024 | by ...",
+          "htmlTitle": "<b>Top</b> 10 <b>Most Popular</b> JavaScript <b>Frameworks</b> to Choose in 2024 | by ...",
+          "link": "https://medium.com/@evincedevelop/top-10-most-popular-javascript-frameworks-to-choose-in-2024-269453cdaf35",
+          "displayLink": "medium.com",
+          "snippet": "Nov 22, 2023 ... Angular.js, developed by Google, is a complete JavaScript framework for building robust single-page applications (SPAs). Since TypeScript ...",
+          "htmlSnippet": "Nov 22, 2023 <b>...</b> Angular.<b>js</b>, developed by Google, is a complete JavaScript <b>framework</b> for building robust single-page applications (SPAs). Since TypeScript&nbsp;...",
+          "cacheId": "MH2PEkVM-yQJ",
+          "formattedUrl": "https://medium.com/.../top-10-most-popular-javascript-frameworks-to-choo...",
+          "htmlFormattedUrl": "https://medium.com/.../top-10-<b>most</b>-<b>popular</b>-javascript-<b>frameworks</b>-to-choo...",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaiGLq5tvjx7pUHZf-Z_qH8o_8tNK212kURQq-KL2QOmGdmO3FUfUz6Ody&s",
+                "width": "311",
+                "height": "162"
+              }
+            ],
+            "metatags": [
+              {
+                "og:image": "https://miro.medium.com/v2/resize:fit:1200/1*hXRCAOPjo2lBN2M6_V24kA.jpeg",
+                "twitter:app:url:iphone": "medium://p/269453cdaf35",
+                "theme-color": "#000000",
+                "article:published_time": "2023-11-22T08:16:09.869Z",
+                "twitter:card": "summary_large_image",
+                "og:site_name": "Medium",
+                "al:android:package": "com.medium.reader",
+                "twitter:label1": "Reading time",
+                "twitter:app:id:iphone": "828256236",
+                "title": "Top 10 Most Popular JavaScript Frameworks to Choose in 2024 | by EvinceDev | Medium",
+                "al:ios:url": "medium://p/269453cdaf35",
+                "og:description": "In the rapidly evolving landscape of web development, JavaScript frameworks play a significant role in transforming modern websites and…",
+                "twitter:creator": "@Evincedevelop",
+                "al:ios:app_store_id": "828256236",
+                "twitter:data1": "5 min read",
+                "twitter:site": "@Medium",
+                "og:type": "article",
+                "twitter:title": "Top 10 Most Popular JavaScript Frameworks to Choose in 2024",
+                "al:ios:app_name": "Medium",
+                "author": "EvinceDev",
+                "og:title": "Top 10 Most Popular JavaScript Frameworks to Choose in 2024",
+                "al:web:url": "https://medium.com/@evincedevelop/top-10-most-popular-javascript-frameworks-to-choose-in-2024-269453cdaf35",
+                "article:author": "https://medium.com/@evincedevelop",
+                "twitter:image:src": "https://miro.medium.com/v2/resize:fit:1200/1*hXRCAOPjo2lBN2M6_V24kA.jpeg",
+                "al:android:url": "medium://p/269453cdaf35",
+                "referrer": "unsafe-url",
+                "fb:app_id": "542599432471018",
+                "viewport": "width=device-width,minimum-scale=1,initial-scale=1,maximum-scale=1",
+                "twitter:description": "In the rapidly evolving landscape of web development, JavaScript frameworks play a significant role in transforming modern websites and…",
+                "og:url": "https://medium.com/@evincedevelop/top-10-most-popular-javascript-frameworks-to-choose-in-2024-269453cdaf35",
+                "twitter:app:name:iphone": "Medium",
+                "al:android:app_name": "Medium"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "https://miro.medium.com/v2/resize:fit:1200/1*hXRCAOPjo2lBN2M6_V24kA.jpeg"
+              }
+            ]
+          }
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "Bootstrap · The most popular HTML, CSS, and JS library in the world.",
+          "htmlTitle": "Bootstrap · The <b>most popular</b> HTML, CSS, and <b>JS</b> library in the world.",
+          "link": "https://getbootstrap.com/",
+          "displayLink": "getbootstrap.com",
+          "snippet": "Powerful, extensible, and feature-packed frontend toolkit. Build and customize with Sass, utilize prebuilt grid system and components, and bring projects to ...",
+          "htmlSnippet": "Powerful, extensible, and feature-packed frontend toolkit. Build and customize with Sass, utilize prebuilt grid system and components, and bring projects to&nbsp;...",
+          "cacheId": "SO1waLm3WRgJ",
+          "formattedUrl": "https://getbootstrap.com/",
+          "htmlFormattedUrl": "https://getbootstrap.com/",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0TOIAvsxsokXQxS0LQ-pSytB7woYLfMYjn1IgFfXE_fJnIBwnt7JXGTNo&s",
+                "width": "318",
+                "height": "159"
+              }
+            ],
+            "metatags": [
+              {
+                "og:image": "https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-social.png",
+                "theme-color": "#712cf9",
+                "twitter:card": "summary_large_image",
+                "twitter:title": "Bootstrap",
+                "og:type": "website",
+                "og:image:width": "2000",
+                "docsearch:version": "5.3",
+                "author": "Mark Otto, Jacob Thornton, and Bootstrap contributors",
+                "og:title": "Bootstrap",
+                "og:image:height": "1000",
+                "og:image:type": "image/png",
+                "docsearch:language": "en",
+                "twitter:creator": "@getbootstrap",
+                "og:description": "Powerful, extensible, and feature-packed frontend toolkit. Build and customize with Sass, utilize prebuilt grid system and components, and bring projects to life with powerful JavaScript plugins.",
+                "twitter:image": "https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-social.png",
+                "twitter:site": "@getbootstrap",
+                "viewport": "width=device-width, initial-scale=1",
+                "twitter:description": "Powerful, extensible, and feature-packed frontend toolkit. Build and customize with Sass, utilize prebuilt grid system and components, and bring projects to life with powerful JavaScript plugins.",
+                "og:url": "https://getbootstrap.com/"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-social.png"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "expiry": 1711403877921
+  },
+  "max+cojocari": {
+    "data": {
+      "kind": "customsearch#search",
+      "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+      },
+      "queries": {
+        "request": [
+          {
+            "title": "Google Custom Search - max cojocari",
+            "totalResults": "54100",
+            "searchTerms": "max cojocari",
+            "count": 10,
+            "startIndex": 1,
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "451ea052a23ab49af"
+          }
+        ],
+        "nextPage": [
+          {
+            "title": "Google Custom Search - max cojocari",
+            "totalResults": "54100",
+            "searchTerms": "max cojocari",
+            "count": 10,
+            "startIndex": 11,
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "451ea052a23ab49af"
+          }
+        ]
+      },
+      "context": {
+        "title": "test"
+      },
+      "searchInformation": {
+        "searchTime": 0.199439,
+        "formattedSearchTime": "0.20",
+        "totalResults": "54100",
+        "formattedTotalResults": "54,100"
+      },
+      "items": [
+        {
+          "kind": "customsearch#result",
+          "title": "Max Cojocari - Performance Analyst - Fidelity Investments | LinkedIn",
+          "htmlTitle": "<b>Max Cojocari</b> - Performance Analyst - Fidelity Investments | LinkedIn",
+          "link": "https://ie.linkedin.com/in/max-cojocari-231380195",
+          "displayLink": "ie.linkedin.com",
+          "snippet": "View Max Cojocari's profile on LinkedIn, the world's largest professional community. Max has 1 job listed on their profile. See the complete profile on ...",
+          "htmlSnippet": "View <b>Max Cojocari&#39;s</b> profile on LinkedIn, the world&#39;s largest professional community. Max has 1 job listed on their profile. See the complete profile on&nbsp;...",
+          "formattedUrl": "https://ie.linkedin.com/in/max-cojocari-231380195",
+          "htmlFormattedUrl": "https://ie.linkedin.com/in/<b>max</b>-<b>cojocari</b>-231380195",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIDx-YTEHc5yvdwgoj_fattSxxYEuUX4BqzYbq1eRfv31wgENb7Dk3cbsj&s",
+                "width": "225",
+                "height": "225"
+              }
+            ],
+            "metatags": [
+              {
+                "og:image": "https://media.licdn.com/dms/image/D5603AQF7kKMs_4RVhw/profile-displayphoto-shrink_400_400/0/1680883149732?e=2147483647&v=beta&t=kovaJdFArN5KNXYTpOMvvugKK4_b-CDrWdDZad_vDY8",
+                "twitter:card": "summary",
+                "linkedin:pagetag": "openToProvider",
+                "platform-worker": "https://static.licdn.com/aero-v1/sc/h/7nirg34a8ey4y2l4rw7xgwxx4",
+                "al:android:package": "com.linkedin.android",
+                "locale": "en_US",
+                "al:ios:url": "https://ie.linkedin.com/in/m-cojocari432",
+                "og:description": "View Max Cojocari’s profile on LinkedIn, the world’s largest professional community. Max has 1 job listed on their profile. See the complete profile on LinkedIn and discover Max’s connections and jobs at similar companies.",
+                "al:ios:app_store_id": "288429040",
+                "platform": "https://static.licdn.com/aero-v1/sc/h/c4vwe7qihy7txcksc6giwbzh5",
+                "twitter:image": "https://media.licdn.com/dms/image/D5603AQF7kKMs_4RVhw/profile-displayphoto-shrink_400_400/0/1680883149732?e=2147483647&v=beta&t=kovaJdFArN5KNXYTpOMvvugKK4_b-CDrWdDZad_vDY8",
+                "profile:last_name": "Cojocari",
+                "twitter:site": "@Linkedin",
+                "litmsprofilename": "public-profile-frontend",
+                "profile:first_name": "Max",
+                "og:type": "profile",
+                "twitter:title": "Max Cojocari - Performance Analyst - Fidelity Investments | LinkedIn",
+                "al:ios:app_name": "LinkedIn",
+                "og:title": "Max Cojocari - Performance Analyst - Fidelity Investments | LinkedIn",
+                "pagekey": "public_profile_v3_mobile",
+                "al:android:url": "https://ie.linkedin.com/in/m-cojocari432",
+                "viewport": "width=device-width, initial-scale=1.0",
+                "twitter:description": "View Max Cojocari’s profile on LinkedIn, the world’s largest professional community. Max has 1 job listed on their profile. See the complete profile on LinkedIn and discover Max’s connections and jobs at similar companies.",
+                "ubba": "https://static.licdn.com/aero-v1/sc/h/b5kvwlt6xpzvqqc66m85xsz6f",
+                "og:url": "https://ie.linkedin.com/in/m-cojocari432",
+                "al:android:app_name": "LinkedIn"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "https://media.licdn.com/dms/image/D5603AQF7kKMs_4RVhw/profile-displayphoto-shrink_400_400/0/1680883149732?e=2147483647&v=beta&t=kovaJdFArN5KNXYTpOMvvugKK4_b-CDrWdDZad_vDY8"
+              }
+            ],
+            "Person": [
+              {}
+            ]
+          }
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "800+ \"Cojocari\" profiles | LinkedIn",
+          "htmlTitle": "800+ &quot;<b>Cojocari</b>&quot; profiles | LinkedIn",
+          "link": "https://www.linkedin.com/pub/dir/+/Cojocari",
+          "displayLink": "www.linkedin.com",
+          "snippet": "Max Cojocari. Performance Reporting Analyst Representative II. Ireland. Fidelity Investments. Griffith College Dublin, +1 more ...",
+          "htmlSnippet": "<b>Max Cojocari</b>. Performance Reporting Analyst Representative II. Ireland. Fidelity Investments. Griffith College Dublin, +1 more&nbsp;...",
+          "formattedUrl": "https://www.linkedin.com/pub/dir/+/Cojocari",
+          "htmlFormattedUrl": "https://www.linkedin.com/pub/dir/+/<b>Cojocari</b>",
+          "pagemap": {
+            "metatags": [
+              {
+                "og:image": "https://static.licdn.com/aero-v1/sc/h/3usjoqttpyv7mplawrjzi58bw",
+                "og:type": "article",
+                "twitter:card": "summary",
+                "twitter:title": "800+ &quot;Cojocari&quot; profiles | LinkedIn",
+                "clientsideingraphs": "1",
+                "og:title": "800+ &quot;Cojocari&quot; profiles | LinkedIn",
+                "pagekey": "p_people_guest_search",
+                "li_feature": "false",
+                "locale": "en_US",
+                "og:description": "View the profiles of professionals named &quot;Cojocari&quot; on LinkedIn. There are 800+ professionals named &quot;Cojocari&quot;, who use LinkedIn to exchange information, ideas, and opportunities.",
+                "twitter:image": "https://static.licdn.com/aero-v1/sc/h/3usjoqttpyv7mplawrjzi58bw",
+                "twitter:site": "@linkedin",
+                "viewport": "width=device-width, initial-scale=1.0",
+                "twitter:description": "View the profiles of professionals named &quot;Cojocari&quot; on LinkedIn. There are 800+ professionals named &quot;Cojocari&quot;, who use LinkedIn to exchange information, ideas, and opportunities.",
+                "litmsprofilename": "people-guest-frontend",
+                "og:url": "https://www.linkedin.com/pub/dir/+/Cojocari"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "https://static.licdn.com/aero-v1/sc/h/3usjoqttpyv7mplawrjzi58bw"
+              }
+            ]
+          }
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "College Officer Election Candidates — UCD Students' Union",
+          "htmlTitle": "College Officer Election Candidates — UCD Students&#39; Union",
+          "link": "https://www.ucdsu.ie/election-candidates-collegeofficers",
+          "displayLink": "www.ucdsu.ie",
+          "snippet": "Max Cojocari. “Vote Max, He Pays Tax!” Read My Manifesto. Stephen Mullen. Read My Manifesto. Candidates for Social Science College Officer. Jan Hatje.",
+          "htmlSnippet": "<b>Max Cojocari</b>. “Vote Max, He Pays Tax!” Read My Manifesto. Stephen Mullen. Read My Manifesto. Candidates for Social Science College Officer. Jan Hatje.",
+          "cacheId": "xDE4ZSe7wtIJ",
+          "formattedUrl": "https://www.ucdsu.ie/election-candidates-collegeofficers",
+          "htmlFormattedUrl": "https://www.ucdsu.ie/election-candidates-collegeofficers",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0Xv3F-m0xIajsCq4Xo8Zy0EoN-kNO8CKBazSsr-va0qenpB6Oi5BjMw&s=0",
+                "width": "141",
+                "height": "112"
+              }
+            ],
+            "metatags": [
+              {
+                "og:type": "website",
+                "twitter:title": "College Officer Election Candidates — UCD Students' Union",
+                "twitter:card": "summary",
+                "og:site_name": "UCD Students' Union",
+                "viewport": "width=device-width, initial-scale=1",
+                "twitter:url": "https://www.ucdsu.ie/election-candidates-collegeofficers",
+                "og:title": "College Officer Election Candidates — UCD Students' Union",
+                "og:url": "https://www.ucdsu.ie/election-candidates-collegeofficers"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "https://images.squarespace-cdn.com/content/v1/64c8abd0fd7e922121baaaac/90e9262a-a138-49d4-b65b-b54290fe6805/Screenshot+2024-03-15+10.37.27+-+Display+1.png"
+              }
+            ]
+          }
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "Have you seen this child? Madalina Cojocari",
+          "htmlTitle": "Have you seen this child? Madalina <b>Cojocari</b>",
+          "link": "https://www.missingkids.org/poster/NCMC/1468358/1",
+          "displayLink": "www.missingkids.org",
+          "snippet": "Missing From: Cornelius, NC. Missing Date: November 23, 2022. Madalina was last seen on November 23, 2022. She was last seen wearing jeans, pink, purple and ...",
+          "htmlSnippet": "Missing From: Cornelius, NC. Missing Date: November 23, 2022. Madalina was last seen on November 23, 2022. She was last seen wearing jeans, pink, purple and&nbsp;...",
+          "cacheId": "_H7Z9DrAzQkJ",
+          "formattedUrl": "https://www.missingkids.org/poster/NCMC/1468358/1",
+          "htmlFormattedUrl": "https://www.missingkids.org/poster/NCMC/1468358/1",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiNiqs-KVFpKubpbzgKtJfFfRUAcXCBoIbNqbN3gsnZua0khIdV00eTZ6z&s",
+                "width": "225",
+                "height": "224"
+              }
+            ],
+            "metatags": [
+              {
+                "og:see_also": "https://www.missingkids.org/",
+                "og:image": "https://api.missingkids.org/missingkids/servlet/DynamicImageLoadServlet?action=mediaImage&mediaName=Facebook&imageName=NCMC1468358c1.jpg",
+                "twitter:card": "summary_large_image",
+                "twitter:title": "Have you seen this child? Madalina Cojocari",
+                "og:image:width": "1200",
+                "og:type": "website",
+                "og:site_name": "National Center for Missing & Exploited Children",
+                "handheldfriendly": "True",
+                "og:title": "Have you seen this child? Madalina Cojocari",
+                "og:image:height": "627",
+                "shareaholic:site_id": "e2bbdc452df8faab3661b915b7d33a54",
+                "twitter:creator": "@missingkids",
+                "og:description": "Missing From: Cornelius, NC. Missing Date: November 23, 2022. Madalina was last seen on November 23, 2022. She was last seen wearing jeans, pink, purple and white Adidas shoes, and a white t-shirt and jacket.",
+                "twitter:image": "https://api.missingkids.org/missingkids/servlet/DynamicImageLoadServlet?action=mediaImage&mediaName=Twitter&imageName=NCMC1468358c1.jpg",
+                "facebook-domain-verification": "nub7661jx82b6t9lhchvr5nk3u5lzb",
+                "twitter:site": "@missingkids",
+                "og:locale:alternate": "es_US",
+                "viewport": "width=device-width, initial-scale=1",
+                "twitter:description": "Missing From: Cornelius, NC. Missing Date: November 23, 2022. Madalina was last seen on November 23, 2022. She was last seen wearing jeans, pink, purple and white Adidas shoes, and a white t-shirt and jacket.",
+                "mobileoptimized": "0",
+                "og:locale": "en_US",
+                "og:url": "https://www.missingkids.org/new-poster/NCMC/1468358/1"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "https://www.missingkids.org/content/dam/missingkids/logos/NCMEC_Heart_Logo.png"
+              }
+            ]
+          }
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "The Candidates for the UCD Students' Union Executive Elections 2024",
+          "htmlTitle": "The Candidates for the UCD Students&#39; Union Executive Elections 2024",
+          "link": "https://www.ucdsu.ie/news/the-candidates-for-the-ucd-students-union-executive-elections-2024",
+          "displayLink": "www.ucdsu.ie",
+          "snippet": "Mar 8, 2024 ... Conni Dawson / Stephen Mullen / Max Cojocari. Health Science. Noah Johnson / Ramzy Zaki. Irish Language Officer. Kate Lawlor. Agriculture/Food ...",
+          "htmlSnippet": "Mar 8, 2024 <b>...</b> Conni Dawson / Stephen Mullen / <b>Max Cojocari</b>. Health Science. Noah Johnson / Ramzy Zaki. Irish Language Officer. Kate Lawlor. Agriculture/Food&nbsp;...",
+          "cacheId": "oPvRvvpK1xEJ",
+          "formattedUrl": "https://www.ucdsu.ie/.../the-candidates-for-the-ucd-students-union-executiv...",
+          "htmlFormattedUrl": "https://www.ucdsu.ie/.../the-candidates-for-the-ucd-students-union-executiv...",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAzn1bGaiu6i_Z8yLkJ7ad3pgDCB1iE78eTfb8Z5JVsm5_NPmSwgKD0zvK&s",
+                "width": "244",
+                "height": "207"
+              }
+            ],
+            "metatags": [
+              {
+                "og:region": "D",
+                "og:image": "http://static1.squarespace.com/static/64c8abd0fd7e922121baaaac/64c8ca96bbcec415ae92e60f/65eb42ca358b586c5c390a7f/1710170247444/UCDSU+Logo+23-24.png?format=1500w",
+                "og:type": "article",
+                "og:image:width": "1500",
+                "twitter:title": "The Candidates for the UCD Students’ Union Executive Elections 2024 — UCD Students' Union",
+                "twitter:card": "summary",
+                "og:site_name": "UCD Students' Union",
+                "twitter:url": "https://www.ucdsu.ie/news/the-candidates-for-the-ucd-students-union-executive-elections-2024",
+                "og:locality": "Dublin",
+                "og:title": "The Candidates for the UCD Students’ Union Executive Elections 2024 — UCD Students' Union",
+                "og:image:height": "1272",
+                "og:latitude": "53.2962089",
+                "og:description": "Here is an overview of the candidates who are seeking election in the UCD Students’ Union Executive Elections 2024.    Full-time Sabbatical Officer Candidates    President   Miranda Bauer / Marc Matouc   Welfare   Ciara Donohue / Jacob Miller /  Shauna Young   Education   Tia Cullen / Naomhán Mhaona",
+                "twitter:image": "http://static1.squarespace.com/static/64c8abd0fd7e922121baaaac/64c8ca96bbcec415ae92e60f/65eb42ca358b586c5c390a7f/1710170247444/UCDSU+Logo+23-24.png?format=1500w",
+                "og:longitude": "-6.2038876",
+                "viewport": "width=device-width, initial-scale=1",
+                "twitter:description": "Here is an overview of the candidates who are seeking election in the UCD Students’ Union Executive Elections 2024.    Full-time Sabbatical Officer Candidates    President   Miranda Bauer / Marc Matouc   Welfare   Ciara Donohue / Jacob Miller /  Shauna Young   Education   Tia Cullen / Naomhán Mhaona",
+                "og:url": "https://www.ucdsu.ie/news/the-candidates-for-the-ucd-students-union-executive-elections-2024",
+                "og:country-name": "Ireland"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "http://static1.squarespace.com/static/64c8abd0fd7e922121baaaac/64c8ca96bbcec415ae92e60f/65eb42ca358b586c5c390a7f/1710170247444/UCDSU+Logo+23-24.png?format=1500w"
+              }
+            ]
+          }
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "Ştefania Natalia Cojocari (@maraton_stefy) • Instagram photos and ...",
+          "htmlTitle": "Ştefania Natalia <b>Cojocari</b> (@maraton_stefy) • Instagram photos and ...",
+          "link": "https://www.instagram.com/maraton_stefy/?hl=en",
+          "displayLink": "www.instagram.com",
+          "snippet": "2192 Followers, 186 Following, 90 Posts - See Instagram photos and videos from Ştefania Natalia Cojocari (@maraton_stefy)",
+          "htmlSnippet": "2192 Followers, 186 Following, 90 Posts - See Instagram photos and videos from Ştefania Natalia <b>Cojocari</b> (@maraton_stefy)",
+          "formattedUrl": "https://www.instagram.com/maraton_stefy/?hl=en",
+          "htmlFormattedUrl": "https://www.instagram.com/maraton_stefy/?hl=en",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQabcwVBXi2Ngnv-kAQK00JCPpRt2ox7FAXHvCGde2hi0IfMgUikD8M&s",
+                "width": "100",
+                "height": "100"
+              }
+            ],
+            "metatags": [
+              {
+                "og:image": "https://scontent-atl3-2.cdninstagram.com/v/t51.2885-19/416049194_328888439972961_475877520805219733_n.jpg?stp=dst-jpg_s100x100&_nc_cat=104&ccb=1-7&_nc_sid=3fd06f&_nc_ohc=BUX6TuA2NQsAX9EQUds&_nc_ht=scontent-atl3-2.cdninstagram.com&oh=00_AfCMQS91IAxtPgOg-rQcC57em9lFRxott8sbDszuhMnesw&oe=66038181",
+                "theme-color": "#FFFFFF",
+                "og:type": "profile",
+                "al:ios:app_name": "Instagram",
+                "og:title": "Ştefania Natalia Cojocari (@maraton_stefy) • Instagram photos and videos",
+                "al:android:package": "com.instagram.android",
+                "al:ios:url": "instagram://user?username=maraton_stefy",
+                "color-scheme": "light",
+                "og:description": "2,192 Followers, 186 Following, 90 Posts - See Instagram photos and videos from Ştefania Natalia Cojocari (@maraton_stefy)",
+                "al:ios:app_store_id": "389801252",
+                "al:android:url": "https://instagram.com/_u/maraton_stefy/",
+                "apple-mobile-web-app-status-bar-style": "default",
+                "viewport": "width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, viewport-fit=cover",
+                "mobile-web-app-capable": "yes",
+                "og:url": "https://www.instagram.com/maraton_stefy/",
+                "al:android:app_name": "Instagram"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "https://scontent-atl3-2.cdninstagram.com/v/t51.2885-19/416049194_328888439972961_475877520805219733_n.jpg?stp=dst-jpg_s100x100&_nc_cat=104&ccb=1-7&_nc_sid=3fd06f&_nc_ohc=BUX6TuA2NQsAX9EQUds&_nc_ht=scontent-atl3-2.cdninstagram.com&oh=00_AfCMQS91IAxtPgOg-rQcC57em9lFRxott8sbDszuhMnesw&oe=66038181"
+              }
+            ]
+          }
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "Madalina Cojocari missing: What is Caylee's Law in NC? | Charlotte ...",
+          "htmlTitle": "Madalina <b>Cojocari</b> missing: What is Caylee&#39;s Law in NC? | Charlotte ...",
+          "link": "https://www.charlotteobserver.com/news/local/crime/article270196767.html",
+          "displayLink": "www.charlotteobserver.com",
+          "snippet": "Dec 20, 2022 ... Madalina Cojocari case: What is the law in ... max-width:100%}.mcclatchy-embed iframe ... Diana Cojocari, 35, and Christopher Palmiter, 60 ...",
+          "htmlSnippet": "Dec 20, 2022 <b>...</b> Madalina <b>Cojocari</b> case: What is the law in ... <b>max</b>-width:100%}.mcclatchy-embed iframe ... Diana <b>Cojocari</b>, 35, and Christopher Palmiter, 60&nbsp;...",
+          "formattedUrl": "https://www.charlotteobserver.com/news/local/crime/article270196767.html",
+          "htmlFormattedUrl": "https://www.charlotteobserver.com/news/local/crime/article270196767.html",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoARrwaP7yTINIjJRXdlnfFVC7XysHtu1QArJIDucpVqQhnPApQkJX1A4&s",
+                "width": "300",
+                "height": "168"
+              }
+            ],
+            "metatags": [
+              {
+                "apple-itunes-app": "app-id=407850748, affiliate-data=at=1010lHsN&ct=SmartAppBannerCLT, app-argument=https://www.charlotteobserver.com/news/local/crime/article270196767.html?appNav=smartBanner",
+                "og:image": "https://www.charlotteobserver.com/latest-news/3lqhf/picture270199457/alternates/LANDSCAPE_1140/320745198_465720142426744_5747487164268659929__fitted.jpeg",
+                "twitter:card": "summary_large_image",
+                "article:published_time": "2022-12-20T14:35:17.000Z",
+                "og:site_name": "Charlotte Observer",
+                "msapplication-tileimage": "https://www.charlotteobserver.com/wps/build/images/charlotteobserver/windowsmetro-144.png",
+                "title": "Madalina Cojocari missing: What is Caylee’s Law in NC? | Charlotte Observer",
+                "og:description": "North Carolina enacted “Caylee’s Law” after the Casey Anthony case.",
+                "parsely-metadata": "{\"article_id\": \"270196767\"}",
+                "twitter:image": "https://www.charlotteobserver.com/latest-news/3lqhf/picture270199457/alternates/LANDSCAPE_1140/320745198_465720142426744_5747487164268659929__fitted.jpeg",
+                "twitter:image:alt": "Madalina Cojocari has been missing from Cornelius, North Carolina since Nov. 23, 2022.",
+                "twitter:site": "@theobserver",
+                "news_keywords": "Madalina Cojocari, Cornelius, NC, missing, child, law",
+                "allow-comments": "true",
+                "msapplication-tilecolor": "#FFFFFF",
+                "twitter:title": "Madalina Cojocari case: What is the law in North Carolina for reporting a missing child?",
+                "og:type": "article",
+                "og:image:alt": "Madalina Cojocari has been missing from Cornelius, North Carolina since Nov. 23, 2022.",
+                "og:title": "Madalina Cojocari case: What is the law in North Carolina for reporting a missing child?",
+                "fb:app_id": "148394135340710",
+                "viewport": "width=device-width, initial-scale=1.0",
+                "twitter:description": "North Carolina enacted “Caylee’s Law” after the Casey Anthony case.",
+                "is-wirestory": "false",
+                "og:url": "https://www.charlotteobserver.com/news/local/crime/article270196767.html",
+                "article:opinion": "false"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "https://www.charlotteobserver.com/latest-news/3lqhf/picture270199457/alternates/LANDSCAPE_1140/320745198_465720142426744_5747487164268659929__fitted.jpeg"
+              }
+            ]
+          }
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "'1-800-CALL-FBI.' New billboards for missing girl Madalina Cojocari ...",
+          "htmlTitle": "&#39;1-800-CALL-FBI.&#39; New billboards for missing girl Madalina <b>Cojocari</b> ...",
+          "link": "https://myfox8.com/news/north-carolina/1-800-call-fbi-new-billboards-for-missing-girl-madalina-cojocari-pop-up-across-north-carolina/",
+          "displayLink": "myfox8.com",
+          "snippet": "Nov 28, 2023 ... ... Max Weather Center stock image (WGHP). Video ... CORNELIUS, N.C. (QUEEN CITY NEWS) — New billboards for missing Cornelius girl Madalina Cojocari ...",
+          "htmlSnippet": "Nov 28, 2023 <b>...</b> ... <b>Max</b> Weather Center stock image (WGHP). Video ... CORNELIUS, N.C. (QUEEN CITY NEWS) — New billboards for missing Cornelius girl Madalina <b>Cojocari</b>&nbsp;...",
+          "cacheId": "dcJHIYxtvUMJ",
+          "formattedUrl": "https://myfox8.com/.../1-800-call-fbi-new-billboards-for-missing-girl-mada...",
+          "htmlFormattedUrl": "https://myfox8.com/.../1-800-call-fbi-new-billboards-for-missing-girl-mada...",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4XV9UK-vhBhLRTAfY54DtNdSnxBOYii6HgR8jfCG9V4DDmZtJfZB5HyoT&s",
+                "width": "300",
+                "height": "168"
+              }
+            ],
+            "metatags": [
+              {
+                "og:image": "https://myfox8.com/wp-content/uploads/sites/17/2023/11/Charlotte-FBI-billboard.jpg?w=1280",
+                "article:published_time": "2023-11-28T11:15:09+00:00",
+                "og:image:width": "1280",
+                "twitter:card": "summary_large_image",
+                "og:site_name": "FOX8 WGHP",
+                "msapplication-tileimage": "https://myfox8.com/wp-content/uploads/sites/17/2020/01/favicon.png?w=270",
+                "og:description": "New billboards for missing Cornelius girl Madalina Cojocari have popped up across North Carolina.",
+                "og:image:secure_url": "https://myfox8.com/wp-content/uploads/sites/17/2023/11/Charlotte-FBI-billboard.jpg?w=1280",
+                "twitter:image": "https://myfox8.com/wp-content/uploads/sites/17/2023/11/Charlotte-FBI-billboard.jpg?strip=1&w=640",
+                "twitter:text:title": "‘1-800-CALL-FBI.’ New billboards for missing girl Madalina Cojocari pop up across North Carolina",
+                "article:modified_time": "2023-11-28T11:15:10+00:00",
+                "sailthru.title": "‘1-800-CALL-FBI.’ New billboards for missing girl Madalina Cojocari pop up across North Carolina",
+                "sailthru.date": "2023-11-28 06:15:09",
+                "og:type": "article",
+                "twitter:title": "‘1-800-CALL-FBI.’ New billboards for missing girl Madalina Cojocari pop up across North Carolina",
+                "msvalidate.01": "9CC50DB4C5614EA88B5CFA75E33AAB02",
+                "og:title": "‘1-800-CALL-FBI.’ New billboards for missing girl Madalina Cojocari pop up across North Carolina",
+                "og:image:height": "720",
+                "sailthru.image.thumb": "https://myfox8.com/wp-content/uploads/sites/17/2023/11/Charlotte-FBI-billboard.jpg?w=50",
+                "sailthru.description": "New billboards for missing Cornelius girl Madalina Cojocari have popped up across North Carolina.",
+                "viewport": "width=device-width, initial-scale=1",
+                "twitter:description": "New billboards for missing Cornelius girl Madalina Cojocari have popped up across North Carolina.",
+                "og:locale": "en_US",
+                "og:url": "https://myfox8.com/news/north-carolina/1-800-call-fbi-new-billboards-for-missing-girl-madalina-cojocari-pop-up-across-north-carolina/",
+                "sailthru.author": "Ciara Lankford",
+                "sailthru.image.full": "https://myfox8.com/wp-content/uploads/sites/17/2023/11/Charlotte-FBI-billboard.jpg?strip=1"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "https://myfox8.com/wp-content/uploads/sites/17/2023/11/Charlotte-FBI-billboard.jpg?w=1280"
+              }
+            ]
+          }
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "Madalina Cojocari: Police suggest human, drug trafficking ...",
+          "htmlTitle": "Madalina <b>Cojocari</b>: Police suggest human, drug trafficking ...",
+          "link": "https://www.charlotteobserver.com/news/local/article272895105.html",
+          "displayLink": "www.charlotteobserver.com",
+          "snippet": "Mar 8, 2023 ... ... max-width:100%}.mcclatchy-embed iframe{position:absolute;top:0;left:0;width:100%;height:100%}</style><div class=\"mcclatchy-embed\"><iframe ...",
+          "htmlSnippet": "Mar 8, 2023 <b>...</b> ... <b>max</b>-width:100%}.mcclatchy-embed iframe{position:absolute;top:0;left:0;width:100%;height:100%}&lt;/style&gt;&lt;div class=&quot;mcclatchy-embed&quot;&gt;&lt;iframe&nbsp;...",
+          "formattedUrl": "https://www.charlotteobserver.com/news/local/article272895105.html",
+          "htmlFormattedUrl": "https://www.charlotteobserver.com/news/local/article272895105.html",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaqwdiYLVj-Lrioq_f1pnQFdUEpIK9RPpqarJvIxsUybXmq_LUzC1_its&s",
+                "width": "300",
+                "height": "168"
+              }
+            ],
+            "metatags": [
+              {
+                "apple-itunes-app": "app-id=407850748, affiliate-data=at=1010lHsN&ct=SmartAppBannerCLT, app-argument=https://www.charlotteobserver.com/news/local/article272895105.html?appNav=smartBanner",
+                "og:image": "https://www.charlotteobserver.com/latest-news/dhbml4/picture270100102/alternates/LANDSCAPE_1140/missing%20girl.JPG",
+                "twitter:card": "summary_large_image",
+                "article:published_time": "2023-03-08T21:35:38.000Z",
+                "og:site_name": "Charlotte Observer",
+                "msapplication-tileimage": "https://www.charlotteobserver.com/wps/build/images/charlotteobserver/windowsmetro-144.png",
+                "title": "Madalina Cojocari: Police suggest human, drug trafficking | Charlotte Observer",
+                "og:description": "The new search warrants were filed with police saying they’re investigating a possible connection to drug trafficking.",
+                "parsely-metadata": "{\"article_id\": \"272895105\"}",
+                "twitter:image": "https://www.charlotteobserver.com/latest-news/dhbml4/picture270100102/alternates/LANDSCAPE_1140/missing%20girl.JPG",
+                "twitter:image:alt": "Cornelius Police are asking for help in the search for 11-year-old Madalina Cojocari, missing since Nov. 23, 2022.",
+                "twitter:site": "@theobserver",
+                "news_keywords": "madalina cojocari, missing, warrant, mother, drug, car",
+                "allow-comments": "true",
+                "msapplication-tilecolor": "#FFFFFF",
+                "twitter:title": "Madalina Cojocari’s mother had passports, wanted to ‘smuggle’ child away, police say",
+                "og:type": "article",
+                "og:image:alt": "Cornelius Police are asking for help in the search for 11-year-old Madalina Cojocari, missing since Nov. 23, 2022.",
+                "og:title": "Madalina Cojocari’s mother had passports, wanted to ‘smuggle’ child away, police say",
+                "fb:app_id": "148394135340710",
+                "viewport": "width=device-width, initial-scale=1.0",
+                "twitter:description": "The new search warrants were filed with police saying they’re investigating a possible connection to drug trafficking.",
+                "is-wirestory": "false",
+                "og:url": "https://www.charlotteobserver.com/news/local/article272895105.html",
+                "article:opinion": "false"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "https://www.charlotteobserver.com/latest-news/dhbml4/picture270100102/alternates/LANDSCAPE_1140/missing%20girl.JPG"
+              }
+            ]
+          }
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "Cojocari Maxim",
+          "htmlTitle": "<b>Cojocari</b> Maxim",
+          "link": "https://www.facebook.com/penguin.escape/",
+          "displayLink": "www.facebook.com",
+          "snippet": "Cojocari Maxim. 290 likes. Van Conversion, Vanlife and Travel guides. “Penguin escape“ is a blog documenting the many aspects of van conversion and...",
+          "htmlSnippet": "<b>Cojocari</b> Maxim. 290 likes. Van Conversion, Vanlife and Travel guides. “Penguin escape“ is a blog documenting the many aspects of van conversion and...",
+          "cacheId": "MBn5H2XG3WkJ",
+          "formattedUrl": "https://www.facebook.com/penguin.escape/",
+          "htmlFormattedUrl": "https://www.facebook.com/penguin.escape/",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ46s9y1Jhl34J3Gs6clmt1JKO71jgG6TqtRWAjtiNCGfMP2cmxZdLBWIc&s",
+                "width": "194",
+                "height": "259"
+              }
+            ],
+            "SocialMediaPosting": [
+              {},
+              {},
+              {},
+              {},
+              {}
+            ],
+            "metatags": [
+              {
+                "apple-itunes-app": "app-id=284882215, app-argument=fb://profile/100028195583371",
+                "og:image": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100028195583371",
+                "twitter:card": "summary",
+                "theme-color": "#FFFFFF",
+                "al:android:package": "com.facebook.katana",
+                "al:ios:url": "fb://profile/100028195583371",
+                "og:description": "Cojocari Maxim. 290 likes. Van Conversion, Vanlife and Travel guides.\n“Penguin escape“ is a blog documenting the many aspects of van conversion and traveling in a van.",
+                "al:ios:app_store_id": "284882215",
+                "twitter:image": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100028195583371",
+                "twitter:image:alt": "Cojocari Maxim",
+                "twitter:site": "@facebookapp",
+                "og:type": "video.other",
+                "og:image:alt": "Cojocari Maxim",
+                "twitter:title": "Cojocari Maxim",
+                "al:ios:app_name": "Facebook",
+                "og:title": "Cojocari Maxim",
+                "google": "notranslate",
+                "al:android:url": "fb://profile/100028195583371",
+                "referrer": "origin-when-crossorigin",
+                "viewport": "width=device-width, initial-scale=1",
+                "twitter:description": "Cojocari Maxim. 290 likes. Van Conversion, Vanlife and Travel guides.\n“Penguin escape“ is a blog documenting the many aspects of van conversion and traveling in a van.",
+                "og:locale": "en_US",
+                "fb-version": "400.0.0.0.55:2436",
+                "og:url": "https://www.facebook.com/penguin.escape/",
+                "al:android:app_name": "Facebook"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100028195583371"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "expiry": 1711403954172
   }
 }
