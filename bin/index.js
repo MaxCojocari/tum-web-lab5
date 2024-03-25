@@ -41,6 +41,7 @@ async function main() {
     const domain = url.hostname;
     const path = url.pathname;
     const res = await makeHttpsRequest(domain, undefined, path);
+    // console.log(res);
     console.log(parseHtml(res));
   } else if (argv.s) {
     let searchQuery = argv.s;
