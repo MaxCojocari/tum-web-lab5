@@ -5,6 +5,7 @@ const { hideBin } = require("yargs/helpers");
 const { makeHttpsRequest } = require("./request-handler");
 const { makeSearchCall } = require("./search-api");
 const { parseHtml } = require("./response-handler");
+const { getCache, setCache } = require("./cache-handler");
 
 require("dotenv").config();
 
@@ -32,17 +33,30 @@ const argv = yargs(hideBin(process.argv))
   .alias("help", "h")
   .parse();
 
+async function handleUrlCommand(urlString) {
+  const cached = getCache(urlString);
+
+  let res;
+
+  if (cached) {
+    res = cached;
+  } else {
+    const url = new URL(urlString);
+    const domain = url.hostname;
+    const path = url.pathname;
+    res = await makeHttpsRequest(domain, undefined, path);
+    res = parseHtml(res);
+    setCache(urlString, res);
+  }
+
+  console.log(res);
+}
+
 async function main() {
   if (Object.keys(argv).length <= 2) {
     yargs.showHelp();
   } else if (argv.u) {
-    const urlString = argv.url;
-    const url = new URL(urlString);
-    const domain = url.hostname;
-    const path = url.pathname;
-    const res = await makeHttpsRequest(domain, undefined, path);
-    // console.log(res);
-    console.log(parseHtml(res));
+    await handleUrlCommand(argv.u);
   } else if (argv.s) {
     let searchQuery = argv.s;
     for (let queryParam of argv._) {
