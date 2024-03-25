@@ -1,3 +1,8 @@
+const { makeHttpsRequest } = require("./request-handler");
+const { splitResBody } = require("./response-handler");
+
+require("dotenv").config();
+
 function normalizeSearchInput(input) {
   input = input.toLowerCase();
   const withoutPunctuation = input.replace(/[.,\/#!$%\^&\*;:{}=\-_`~()]/g, "");
