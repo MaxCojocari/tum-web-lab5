@@ -1,5 +1,5 @@
 {
-    "name": "tum-web-lab3",
+    "name": "tum-web-lab5",
     "version": "1.0.0",
     "description": "CLI for making TCP requests",
     "main": "index.js",
