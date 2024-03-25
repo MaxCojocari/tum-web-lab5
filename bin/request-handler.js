@@ -1,8 +1,15 @@
 const tls = require("tls");
+const fs = require("fs");
 
 function makeHttpsRequest(host, port = 443, path = "/") {
   return new Promise((resolve, reject) => {
-    const options = { host, port };
+    const options = {
+      host,
+      port,
+      key: fs.readFileSync("private-key.pem"),
+      cert: fs.readFileSync("public-cert.pem"),
+      rejectUnauthorized: false,
+    };
 
     const client = tls.connect(options, () => {
       client.write(
