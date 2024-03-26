@@ -28,7 +28,7 @@ async function makeSearchCall(query) {
     bodyRes = cached;
   } else {
     const res = await makeHttpsRequest(process.env.API_URL, undefined, path);
-    bodyRes = JSON.parse(splitResBody(res));
+    bodyRes = JSON.parse(splitResBody(res).body);
     setCache(normalizedQuery, bodyRes);
   }
 
