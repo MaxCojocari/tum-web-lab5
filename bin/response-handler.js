@@ -17,4 +17,18 @@ function parseHtml(response) {
   return root.structuredText.replace(/(<([^>]+)>)/gi, "");
 }
 
-module.exports = { splitResBody, parseHtml };
+function getContentTypeFromResponse(response) {
+  const lines = response.split("\r\n");
+  const contentTypeLine = lines.find((line) =>
+    line.toLowerCase().startsWith("content-type:")
+  );
+
+  if (contentTypeLine) {
+    const contentType = contentTypeLine.split(": ")[1];
+    return contentType;
+  } else {
+    return null;
+  }
+}
+
+module.exports = { splitResBody, parseHtml, getContentTypeFromResponse };
