@@ -4,7 +4,11 @@ const yargs = require("yargs");
 const { hideBin } = require("yargs/helpers");
 const { makeHttpsRequest } = require("./request-handler");
 const { makeSearchCall } = require("./search-api");
-const { parseHtml, splitResBody } = require("./response-handler");
+const {
+  parseHtml,
+  splitResBody,
+  getContentTypeFromResponse,
+} = require("./response-handler");
 const { getCache, setCache } = require("./cache-handler");
 
 require("dotenv").config();
@@ -33,37 +37,32 @@ const argv = yargs(hideBin(process.argv))
   .alias("help", "h")
   .parse();
 
-function getContentTypeFromResponse(response) {
-  const lines = response.split("\r\n");
-  const contentTypeLine = lines.find((line) =>
-    line.startsWith("Content-Type:")
-  );
-
-  if (contentTypeLine) {
-    const contentType = contentTypeLine.split(": ")[1];
-    return contentType;
-  } else {
-    return null;
-  }
-}
-
 async function handleUrlCommand() {
   const urlString = argv.u;
   const cached = getCache(urlString);
-  let res;
 
+  let res;
   if (cached) {
     res = cached;
   } else {
     const url = new URL(urlString);
     const domain = url.hostname;
-    const path = url.pathname;
+    const path = url.pathname + url.search;
     res = await makeHttpsRequest(domain, undefined, path);
-    // setCache(urlString, res);
+    setCache(urlString, res);
   }
+
   const header = splitResBody(res).header;
   const contentType = getContentTypeFromResponse(header);
-  console.log("Content-Type:", contentType);
+
+  if (contentType.includes("application/json")) {
+    const json = splitResBody(res).body;
+    console.log(JSON.parse(json));
+  } else if (contentType.includes("text/html")) {
+    console.log(parseHtml(res));
+  } else {
+    console.log(res);
+  }
 }
 
 async function handleSearchCommand() {
