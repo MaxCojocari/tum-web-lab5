@@ -6,12 +6,13 @@ function splitResBody(response) {
   if (separatorIndex === -1) {
     throw new Error("The separator was not found in the response.");
   }
-  const bodyPart = response.substring(separatorIndex + separator.length);
-  return bodyPart;
+  const header = response.substring(0, separatorIndex);
+  const body = response.substring(separatorIndex + separator.length);
+  return { header, body };
 }
 
 function parseHtml(response) {
-  const root = parse(splitResBody(response));
+  const root = parse(splitResBody(response).body);
   root.querySelectorAll("script, style").forEach((node) => node.remove());
   return root.structuredText.replace(/(<([^>]+)>)/gi, "");
 }
