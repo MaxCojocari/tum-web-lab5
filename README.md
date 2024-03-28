@@ -29,3 +29,6 @@
    ```
 
 ## Demo
+
+https://github.com/MaxCojocari/tum-web-lab5/assets/92053176/b3333615-b2f2-440f-8e6a-9a87e372eda9
+
